@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OutlookEditUNCPathManifest.xml
+C:\Users\bsavage\source\repos\OutlookEditUNCPath\OutlookEditUNCPath\bin\Debug\OutlookEditUNCPath.debugapp

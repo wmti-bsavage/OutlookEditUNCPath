@@ -1,0 +1,2 @@
+C:\Users\bsavage\source\repos\OutlookEditUNCPath\OutlookEditUNCPath\obj\Debug\OutlookEditUNCPath.csproj.AssemblyReference.cache
+C:\Users\bsavage\source\repos\OutlookEditUNCPath\OutlookEditUNCPath\obj\Debug\OutlookEditUNCPath.csproj.CoreCompileInputs.cache
